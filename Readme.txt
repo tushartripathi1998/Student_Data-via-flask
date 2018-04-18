@@ -1,0 +1,1 @@
+A web app to enter details of 2 students and save them into a file named 'studentInfo.log', using flask API
